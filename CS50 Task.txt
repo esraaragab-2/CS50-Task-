@@ -1,0 +1,51 @@
+السؤال الأول : طالب يريد معرفة ناجح ام راسب في مادة دراسية، بناءً على درجته من 100، ودرجة النجاح هي 50
+Pseudocode:
+START
+INPUT Exam Seat Number
+OUTPUT Sum.
+IF Sum>=50
+PRINT Success
+ELSE
+PRINT Fail
+END IF
+END
+السؤال الثاني : خيّل إنك مسؤول عن تنظيم دخول الطلاب إلى امتحان، وكل طالب معاه رقم جلوس، ومسموح له بالدخول إذا كان رقمه موجودًا في قائمة الطلاب المسجلين
+Algorithm:
+.START---> INPUT---> STEPS--->RESULT--->END
+.Upload the exam seat number list---> Enter exam seat number---> Check the exam seat number on the list---> Enter if exam seat number on the list, Get out if exam seat number is not on the list---> Sit in your seat
+Input:exam seat number 
+Output:
+if exam seat number on list  print Enter
+else  print Get out
+Condition:
+.Enter if exam seat number on list and sit in your seat 
+.Get out if exam seat number is not on list
+Pseudocode:
+START
+INPUT EXAM SEAT NUMBER
+OUTPUT
+IF EXAM SEAT NUMBER IS ON THE LIST
+PRINT ENTER
+ELSE
+PRINT GET OUT
+END IF
+END
+Test Cases:
+.User enter 350
+OUTPUT:Enter
+.User enter 339
+OUTPUT:Get out
++----------------------+
+|   Exam Seat Numbers  |
+|----------------------|
+|   350                |
+|   351                |
+|   352                |
+|   353                |
+|   354                |
+|   355                |
++----------------------+
+
+
+
+    
