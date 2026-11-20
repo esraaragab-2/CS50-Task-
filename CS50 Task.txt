@@ -35,16 +35,14 @@ Test Cases:
 OUTPUT:Enter
 .User enter 339
 OUTPUT:Get out
-+----------------------+
-|   Exam Seat Numbers  |
-|----------------------|
-|   350                |
-|   351                |
-|   352                |
-|   353                |
-|   354                |
-|   355                |
-+----------------------+
+  
+ Exam Seat Numbers  
+   350                
+   351                
+   352                
+   353                
+   354                
+   355                
 
 
 
