@@ -1,8 +1,8 @@
 السؤال الأول : طالب يريد معرفة ناجح ام راسب في مادة دراسية، بناءً على درجته من 100، ودرجة النجاح هي 50
 Pseudocode:
 START
-INPUT Exam Seat Number
-OUTPUT Sum.
+INPUT Result
+OUTPUT 
 IF Sum>=50
 PRINT Success
 ELSE
